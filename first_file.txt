@@ -1,5 +1,3 @@
-First line ever...
-
 This is general information
 
 I want to include personal information too. 
