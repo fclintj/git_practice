@@ -1,16 +1,14 @@
 This is my first file
 
-<<<<<<< HEAD
 This is general information
 
 Master controls all of the current commits.
 
 I want to include personal information too. 
-=======
+
 Personal Information:
 ○ I was born in the United states
 ○ I was married in Logan Utah
 ○ I am happy
 
 This is third branch material
->>>>>>> personal
