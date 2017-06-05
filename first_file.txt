@@ -1,8 +1,6 @@
-This is my first.
+This is my first file!
 
 This is general information
-
-Master controls all of the current commits.
 
 I want to include personal information too. 
 
@@ -11,4 +9,4 @@ Personal Information:
 ○ I was married in Logan Utah
 ○ I am happy
 
-This is third branch material
+Master controls all of the current commits.
