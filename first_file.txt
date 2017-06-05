@@ -1,11 +1,11 @@
-This is my first file!
+this is my first file...
 
 This is general information
 
 I want to include personal information too. 
 
 Personal Information:
-○ I was born in the United states
+○ I was born in the China
 ○ I was married in Logan Utah
 ○ I am happy
 
