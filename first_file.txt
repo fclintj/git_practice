@@ -3,4 +3,9 @@ This is my first file
 Personal Information:
 ○ I was born in the United states
 ○ I was married in Logan Utah
+<<<<<<< HEAD
 ○ I am happy
+=======
+
+This is third branch material
+>>>>>>> third_branch
