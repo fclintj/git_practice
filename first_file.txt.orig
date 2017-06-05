@@ -1,20 +1,16 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+This is general information
+
+I want to include personal information too. 
+||||||| merged common ancestors
 First line ever...
 
 This is general information
 
 I want to include personal information too. 
-||||||| 4cd6efd... delete char
-This is my first fl
 =======
 This is my first file
->>>>>>> parent of 4cd6efd... delete char
-||||||| 4cd6efd... delete char
-This is my first fl
-=======
-This is my first file
->>>>>>> parent of 4cd6efd... delete char
+>>>>>>> personal
 
 Personal Information:
 ○ I was born in a lot of places
