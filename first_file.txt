@@ -1,7 +1,7 @@
 First line ever....
 This test is to see if the remote branch will work
 This is general information
-This is another response.
+This is another response from personal.
 I want to include personal information too. 
 
 Personal Information:
