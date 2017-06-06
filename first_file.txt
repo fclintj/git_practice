@@ -4,6 +4,8 @@ This is general information
 This is another response from personal.
 I want to include personal information too. 
 
+THIS IS A COMMIT -AM OPTION
+
 Personal Information:
 ○ I was born in a lot of places
 ○ I was married in Logan Utah
