@@ -1,9 +1,13 @@
 First line ever....
-1) first branch test for debasing
-2) Rebasing for Master
-
+This test is to see if the remote branch will work
 This is general information
+This is a response.
+I want to include personal information too. 
 
+Personal Information:
+○ I was born in a lot of places
+○ I was married in Logan Utah
+○ I am happy
 I want to include personal information too. 
 ssh test
 Personal Information:
